@@ -3,5 +3,13 @@
   "description": "A theme support plugin for OliveNoire",
   "require": {
       "php": "^7.2"
-  }
+  },
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Aldebaran Desombergh",
+          "email": "aldebaran.desombergh@gmail.com"
+      }
+  ]
 }
