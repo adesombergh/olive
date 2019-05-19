@@ -1,6 +1,9 @@
 {
   "name": "aldebaran-desombergh/olive",
   "description": "A theme support plugin for OliveNoire",
+  "require": {
+      "php": "^7.1.23"
+  },
   "type": "wordpress-plugin",
   "license": "MIT",
   "authors": [
